@@ -43,6 +43,7 @@ import android.widget.Toast;
  * 블루투스 채팅 메인 액티비티
  */
 public class BluetoothChat extends Activity {
+  // Test GitHub Push Test
   // 디버깅용
   private static final String TAG = "BluetoothChat";
   private static final boolean D = true;
